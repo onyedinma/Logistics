@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+ 
+    "jsx": "react-native", // For React Native projects; use "react" for web projects
+    "esModuleInterop": true
+  }
+} 
